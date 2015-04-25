@@ -1,3 +1,5 @@
+/*credits to Gabriel Lorencetti Prado*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
